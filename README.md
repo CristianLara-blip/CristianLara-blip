@@ -42,5 +42,5 @@
   ![DBeaver](https://img.shields.io/badge/DBeaver-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)  
 
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=CrisLara-Dev&theme=github_dark) 
-![](https://komarev.com/ghpvc/?username=CrisLara-Dev)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=CristianLara-blip&theme=github_dark) 
+![](https://komarev.com/ghpvc/?username=CristianLara-blip)
